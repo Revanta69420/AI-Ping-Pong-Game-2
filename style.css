@@ -1,0 +1,26 @@
+body
+{
+background-size: cover;
+}
+.heading {
+width: 100%;
+float: none;
+margin: 0px;
+}
+.instruction_button {
+float: right;
+border: 2px solid black;
+}
+.modal-dialog {
+width: 90%;
+}
+.modal-body {
+display: inline-block;
+}
+.copy_right_footer {
+bottom: 0;
+float: none;
+color: limegreen;
+background-color: crimson;
+width: 100%;
+}
